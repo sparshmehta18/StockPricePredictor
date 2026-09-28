@@ -1,0 +1,10 @@
+cycler
+matplotlib
+numpy
+pandas
+pyparsing
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
